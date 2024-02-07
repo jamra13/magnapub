@@ -1,7 +1,7 @@
 {
   "name": "jamra",
   "website": “https://github.com/jamra13“,
-  "description": “my own date",
+  "description": “my own data",
   "logo": "https://static.vecteezy.com/system/resources/previews/011/652/871/large_2x/domain-3d-render-icon-illustration-png.png",
-  "twitter": “https://x.com/BaskanOlunca“
+  "twitter": “https://twitter.com/BaskanOlunca“
 }
