@@ -2,6 +2,6 @@
   "name": "jamra",
   "website": "https://github.com/jamra13",
   "description": "my own data",
-  "logo": "https://static.vecteezy.com/system/resources/previews/011/652/871/large_2x/domain-3d-render-icon-illustration-png.png",
+  "logo": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YYJg4bP3SKeC_z2YvPr7xg.png",
   "twitter": "https://twitter.com/BaskanOlunca"
 }
